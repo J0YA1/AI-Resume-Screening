@@ -107,7 +107,7 @@ AI-Resume-Screening-Assistant/
 ├── requirements.txt
 ├── README.md
 ├── .gitignore
-└── .env
+└── .env(this should be created by your own)
 ```
 
 > **Note:** The `.env` file should only exist locally and must not be uploaded to GitHub.
